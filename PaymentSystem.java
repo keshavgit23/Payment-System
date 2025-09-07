@@ -153,7 +153,7 @@ class CashOnDelivery implements Payment {
 }
 
 // Main class to run the Payment System CLI
-public class Main {
+public class PaymentSystem{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int choice;
