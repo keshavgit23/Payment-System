@@ -4,8 +4,12 @@ A Java-based CLI payment system supporting UPI, Credit Card, Digital Wallet, and
 
 # PaymentSystemJavaCLI
 
-![Java](https://img.shields.io/badge/Language-Java-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Java](https://img.shields.io/badge/Java-SE%208+-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Platform](https://img.shields.io/badge/Platform-CLI-lightgrey)
+![Last Commit](https://img.shields.io/github/last-commit/keshavgit23/Payment-System)
+![Repo Stars](https://img.shields.io/github/stars/keshavgit23/Payment-System?style=social)
+
 
 A Java-based **Command Line Interface (CLI) Payment System** allowing users to make payments via **UPI, Credit Card, Digital Wallet, or Cash On Delivery (COD)**. Demonstrates **OOP concepts** like interfaces, polymorphism, and method overriding, with robust **input validation**. COD collects detailed user info, and the menu-driven interface lets users perform multiple transactions easily. Ideal for beginners learning **Java OOP** and **console-based user input handling**.
 
