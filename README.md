@@ -38,10 +38,10 @@ A Java-based **Command Line Interface (CLI) Payment System** allowing users to m
    git clone <repository-url>
 2. Navigate to the project folder and compile:
    ```bash
-   javac Main.java
+   javac PaymentSystem.java
 3. Run the program:
    ```bash
-   java Main
+   java PaymentSystem
 4. Follow the on-screen menu to make payments.
 
 ## License 
